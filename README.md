@@ -10,9 +10,9 @@ I'm not quite sure how portable this is, so if you find something that breaks yo
 Installation
 ------------
 
-````
-~/.local/share/Steam/skins/
+```bash
+cd ~/.local/share/Steam/skins/
 git clone https://github.com/MoriTanosuke/HiDPI-Steam-Skin.git
-````
+```
 
 Open Steam, go to Steam -> Interface and choose the new skin `HiDPI-Steam-Skin`.
